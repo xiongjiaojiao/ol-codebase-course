@@ -1,7 +1,12 @@
-# 课程概述
+# OpenLayers Chinese Course
 
-本课程是一个全面的地理信息系统 (GIS) 课程，旨在装备学生以实际技能和理论知识，使他们能够在现代地理信息环境中工作。课程内容包括地图视图的创建、基础图层管理、以及一系列与 GIS 相关的项目。
+Welcome to the OpenLayers Chinese Course! This course will cover various aspects of using OpenLayers for web mapping. Below you will find all necessary modules, quizzes, and laboratory exercises.
 
-## 课程模块
+## Course Content
+- Module 00: Setup
+- Module 01: Map View
+- Module 02: Basemap Tiles
 
-每个模块将通过理论与实践相结合的方式进行，确保学生能够在完成课程后灵活运用所学知识。
+Each module will include a quiz to test your understanding of the material presented.
+
+Enjoy the course!
